@@ -1,3 +1,3 @@
 # trabalhos_escola
 
-qualquer descrção aleatória
+Trabalhos da disciplina back-end. (testes iniciais na turma de 3º do curso dev sistemas)
